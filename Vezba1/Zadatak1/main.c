@@ -1,5 +1,10 @@
 #include <stdio.h>
 
+void PrintResult(int res)
+{
+	printf("Result: %d\n", res);
+}
+
 int main()
 {
 	int a = 3;
